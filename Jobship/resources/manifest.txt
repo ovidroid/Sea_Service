@@ -1,0 +1,3 @@
+Main-Class: Jobship 
+Manifest-Version: 1.0
+Clas-Path: .
